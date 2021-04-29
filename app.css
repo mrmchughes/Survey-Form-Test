@@ -1,0 +1,14 @@
+input[type="text"] {
+  width: 150px;
+}
+
+input[type="email"] {
+  width: 150px;
+}
+
+input[type="number"] {
+  width: 150px;
+}
+
+/*These first few sections are just to even out length so placeholder text displays right
+    The placeholder for number was getting cut off for some reason */
